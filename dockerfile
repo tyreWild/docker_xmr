@@ -3,7 +3,7 @@ FROM ubuntu
 ENV WALLET=$WALLET
 # ENV POOL=xmrpool.eu:5555
 ENV POOL=pool.supportxmr.com:3333
-ENV PASSWORD=tyre
+ENV PASSWORD=tyree
 
 WORKDIR RIG
 
